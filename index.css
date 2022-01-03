@@ -1,0 +1,14 @@
+.main{
+    border: 1px solid red;
+    height: auto;
+}
+.nav{
+    border: 1px solid;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
